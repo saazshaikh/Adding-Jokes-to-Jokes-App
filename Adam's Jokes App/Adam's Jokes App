@@ -1,0 +1,18 @@
+//
+//  Adam_s_Jokes_AppApp.swift
+//  Adam's Jokes App
+//
+//  Created by Saaz Shaikh on 10/07/2023.
+//
+
+import SwiftUI
+
+@main
+struct Adam_s_Jokes_AppApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
+
